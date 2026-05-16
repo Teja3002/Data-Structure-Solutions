@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 6 |
-| Easy | 6 |
+| Total Solved | 5 |
+| Easy | 5 |
 | Medium | 0 |
 | Hard | 0 |
 
@@ -22,7 +22,7 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
-| Print X N numbers of times | Easy | Fundamentals Of Programming | 2026-05-16 |
+
 | Sum of first last element in array | Easy | Sum Of First Last Element In Array | 2026-05-16 |
 | Switch Case | Easy | Fundamentals Of Programming | 2026-05-16 |
 | If ElseIf | Easy | Fundamentals Of Programming | 2026-05-16 |
