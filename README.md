@@ -16,7 +16,7 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 | Topic | Problems Solved |
 |-------|-----------------|
 | Fundamentals Of Programming | 5 |
-| Sum Of First Last Element In Array | 1 |
+
 
 ## Recently Solved
 
