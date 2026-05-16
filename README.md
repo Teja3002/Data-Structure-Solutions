@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 18 |
-| Easy | 18 |
+| Total Solved | 19 |
+| Easy | 19 |
 | Medium | 0 |
 | Hard | 0 |
 
@@ -15,18 +15,18 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Topic | Problems Solved |
 |-------|-----------------|
-| Fundamentals Of Programming | 17 |
+| Fundamentals Of Programming | 18 |
 | Sum Of First Last Element In Array | 1 |
 
 ## Recently Solved
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Pattern 13 | Easy | Fundamentals Of Programming | 2026-05-16 |
 | Pattern 12 | Easy | Fundamentals Of Programming | 2026-05-16 |
 | Pattern 11 | Easy | Fundamentals Of Programming | 2026-05-16 |
 | Pattern 10 | Easy | Fundamentals Of Programming | 2026-05-16 |
 | Pattern 9 | Easy | Fundamentals Of Programming | 2026-05-16 |
-| Pattern 8 | Easy | Fundamentals Of Programming | 2026-05-16 |
 
 ---
 
