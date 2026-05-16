@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 1 |
-| Easy | 1 |
+| Total Solved | 2 |
+| Easy | 2 |
 | Medium | 0 |
 | Hard | 0 |
 
@@ -15,12 +15,13 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Topic | Problems Solved |
 |-------|-----------------|
-| Fundamentals Of Programming | 1 |
+| Fundamentals Of Programming | 2 |
 
 ## Recently Solved
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Pattern 13 | Easy | Fundamentals Of Programming | 2026-05-16 |
 | Pattern 14 | Easy | Fundamentals Of Programming | 2026-05-16 |
 
 ---
