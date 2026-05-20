@@ -7,6 +7,6 @@ public:
             if(n%i==0)
             return false;
         }
-        retun true;
+        return true;
     }
 };
