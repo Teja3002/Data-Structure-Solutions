@@ -4,11 +4,10 @@ public:
         int ans = 0; 
         
          for(int i = 0; i < n; i++) {
-            // Add the current element to the sum
-            ans = ans + arr[i]; 
+             ans = ans + arr[i]; 
         }
         
-        // Return the result
-        return ans;
+         return ans;
     }
 };
+class Solution{
