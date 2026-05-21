@@ -1,6 +1,6 @@
 class Solution:
     def arraySortedOrNot(self, arr, n):
-        if(sorted(arr)):
+        if arr==sorted(arr):
             return True
         else:
             return False;
