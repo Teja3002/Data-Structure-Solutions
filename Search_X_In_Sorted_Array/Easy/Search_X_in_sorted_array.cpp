@@ -11,5 +11,3 @@ while low<=high:
         low=0
     def search(self, nums, target):
 class Solution:
-                high=mid-1
-        return -1
