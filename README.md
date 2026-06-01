@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 42 |
-| Easy | 39 |
+| Total Solved | 43 |
+| Easy | 40 |
 | Medium | 3 |
 | Hard | 0 |
 
@@ -16,7 +16,7 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 | Topic | Problems Solved |
 |-------|-----------------|
 | Fundamentals Of Programming | 23 |
-| Sorting | 8 |
+| Sorting | 9 |
 | Sum Of Array Elements | 1 |
 | Count Of Odd Numbers In Array | 1 |
 | Check If The Array Is Sorted I | 1 |
@@ -33,11 +33,11 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Upper Bound | Easy | Sorting | 2026-06-01 |
 | Lower Bound | Easy | Sorting | 2026-06-01 |
 | Search X in sorted array | Easy | Search X In Sorted Array | 2026-06-01 |
 | Two Sum | Easy | Sorting | 2026-05-31 |
 | Rearrange array elements by sign | Medium | Rearrange Array Elements By Sign | 2026-05-29 |
-| Leaders in an Array | Medium | Leaders In An Array | 2026-05-27 |
 
 ---
 
