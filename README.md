@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 43 |
-| Easy | 40 |
+| Total Solved | 44 |
+| Easy | 41 |
 | Medium | 3 |
 | Hard | 0 |
 
@@ -28,16 +28,17 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 | Leaders In An Array | 1 |
 | Rearrange Array Elements By Sign | 1 |
 | Search X In Sorted Array | 1 |
+| Search Insert Position | 1 |
 
 ## Recently Solved
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Search insert position | Easy | Search Insert Position | 2026-06-01 |
 | Upper Bound | Easy | Sorting | 2026-06-01 |
 | Lower Bound | Easy | Sorting | 2026-06-01 |
 | Search X in sorted array | Easy | Search X In Sorted Array | 2026-06-01 |
 | Two Sum | Easy | Sorting | 2026-05-31 |
-| Rearrange array elements by sign | Medium | Rearrange Array Elements By Sign | 2026-05-29 |
 
 ---
 
