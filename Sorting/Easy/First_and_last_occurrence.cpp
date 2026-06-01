@@ -1,21 +1,20 @@
-elif nums[mid] < target:
+else:
                 high = mid - 1
-                first = mid
-            if nums[mid] == target:
 
-            mid = (low + high) // 2
+        return first
+
+    def lastoccur(self, nums, target, low, high):
+        last = -1
+
         while low <= high:
+            mid = (low + high) // 2
 
-        first = -1
-    def firstoccur(self, nums, target, low, high):
+            if nums[mid] == target:
+                last = mid
+                low = mid + 1
+            elif nums[mid] < target:
+                low = mid + 1
+            else:
+                high = mid - 1
 
-        return [first, last]
-
-        last = self.lastoccur(nums, target, low, high)
-        first = self.firstoccur(nums, target, low, high)
-
-        high = n - 1
-        low = 0
-        n = len(nums)
-    def searchRange(self, nums, target):
-class Solution:
+        return last
