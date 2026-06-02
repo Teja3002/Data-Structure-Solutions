@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 49 |
-| Easy | 44 |
+| Total Solved | 50 |
+| Easy | 45 |
 | Medium | 5 |
 | Hard | 0 |
 
@@ -33,16 +33,17 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 | Search In Rotated Sorted Array I | 1 |
 | Search In Rotated Sorted Array 2 | 1 |
 | Find Minimum In Rotated Sorted Array | 1 |
+| Find Out How Many Times The Array Is Rotated | 1 |
 
 ## Recently Solved
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Find out how many times the array is rotated | Easy | Find Out How Many Times The Array Is Rotated | 2026-06-02 |
 | Find minimum in Rotated Sorted Array | Easy | Find Minimum In Rotated Sorted Array | 2026-06-02 |
 | Search in rotated sorted array-II | Medium | Search In Rotated Sorted Array 2 | 2026-06-02 |
 | Search in rotated sorted array-I | Medium | Search In Rotated Sorted Array I | 2026-06-02 |
 | First and last occurrence | Easy | Sorting | 2026-06-01 |
-| Floor and Ceil in Sorted Array | Easy | Floor And Ceil In Sorted Array | 2026-06-01 |
 
 ---
 
