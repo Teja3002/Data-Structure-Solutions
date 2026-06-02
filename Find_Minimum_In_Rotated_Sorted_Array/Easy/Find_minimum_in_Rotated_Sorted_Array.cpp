@@ -9,7 +9,6 @@ low=0
                 mini=min(mini,nums[low])
                 low=mid+1
             else:
-                mini=min(mini,nums[high])
+                mini=min(mini,nums[mid])
                 high=mid-1
-    def findMin(self, nums):
-class Solution:
+        return mini
