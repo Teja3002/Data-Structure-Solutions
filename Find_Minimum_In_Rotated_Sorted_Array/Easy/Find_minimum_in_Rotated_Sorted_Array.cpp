@@ -1,14 +1,15 @@
 low=0
-        n=len(nums)
         high=n-1
-        mini=float('inf')
+        mini=float("inf")
+
         while low<=high:
             mid=(low+high)//2
-
-            if nums[low]<=nums[mid]:
-                mini=min(mini,nums[low])
-                low=mid+1
+            if arr[low]<=arr[mid]:
+                mini=min(mini,arr[low])
             else:
-                mini=min(mini,nums[mid])
+
+
+                mini=min(mini,arr[mid])
                 high=mid-1
-        return mini
+                low=mid+1
+        return  mini
