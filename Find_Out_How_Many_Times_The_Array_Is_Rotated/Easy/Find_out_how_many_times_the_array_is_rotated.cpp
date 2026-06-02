@@ -1,14 +1,15 @@
-if nums[mid] > nums[high]:
-                low = mid + 1
-            else:
-           
+low = mid + 1
 
-            mid = (low + high) // 2
+            # Else nums[mid] <= nums[high]
+            # Right side is sorted.
+            # Minimum can be nums[mid] itself or left side.
+            #
+            # So do NOT remove mid.
+            # Keep mid inside search space.
+            else:
                 high = mid
 
-
-         while low < high:
+        # At the end low == high.
+        # That index is the minimum element index.
+        # Rotation count = minimum index.
         return low
-class Solution:
-    def findKRotation(self, nums):
-        low, high = 0, len(nums) - 1
