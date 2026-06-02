@@ -1,7 +1,13 @@
 class Solution:
-    def search(self, nums, k):
-        for i in range(len(nums)):
-            if nums[i]==k:
-                return i
-            
-        return -1
+    # Function to search for the target element in a rotated sorted 
+    def search(self, nums, target):
+        low, high = 0, len(nums) - 1
+
+        # Applying binary search algorithm
+        while low <= high:
+            mid = (low + high) // 2
+
+    array
+            # Check if mid points to the target
+            if nums[mid] == target:
+                return mid
