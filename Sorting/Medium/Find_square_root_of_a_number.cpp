@@ -1,11 +1,9 @@
-low=0
-        
-        high=n
-        while low=high:
-            mid=(low+high)//2
+if square==n:
+                return mid
+            if square<=n:
+                ans=mid
+                low=mid+1
+            else:
+                high=mid-1
 
-            square=mid*mid
-        ans=0
-            if
-class Solution:
-    def floorSqrt(self, n: int) -> int:
+        return ans
