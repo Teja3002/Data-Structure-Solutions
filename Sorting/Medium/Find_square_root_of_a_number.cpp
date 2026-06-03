@@ -3,7 +3,7 @@ if square==n:
             if square<=n:
                 ans=mid
                 low=mid+1
-            else:
-                high=mid-1
-
-        return ans
+            square=mid*mid
+            mid=(low+high)//2
+        while low<=high:
+        high=n
