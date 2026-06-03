@@ -7,3 +7,5 @@ low=0
             square=mid*mid
         ans=0
             if
+class Solution:
+    def floorSqrt(self, n: int) -> int:
