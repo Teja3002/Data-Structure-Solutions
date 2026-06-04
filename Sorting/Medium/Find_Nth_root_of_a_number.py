@@ -1,7 +1,10 @@
 class Solution:
     def NthRoot(self, n, m):
-        for i in range(m):
-            power=i**n
-            if power==m:
-                return i
-        return -1
+        low = 1
+        high = m
+
+        while low <= high:
+            mid = (low + high) // 2
+            power = mid ** n
+
+            if power == m:
