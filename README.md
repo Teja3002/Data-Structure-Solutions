@@ -6,9 +6,9 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 51 |
+| Total Solved | 52 |
 | Easy | 45 |
-| Medium | 6 |
+| Medium | 7 |
 | Hard | 0 |
 
 ## Topic-wise Progress
@@ -16,7 +16,7 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 | Topic | Problems Solved |
 |-------|-----------------|
 | Fundamentals Of Programming | 23 |
-| Sorting | 11 |
+| Sorting | 12 |
 | Sum Of Array Elements | 1 |
 | Count Of Odd Numbers In Array | 1 |
 | Check If The Array Is Sorted I | 1 |
@@ -39,11 +39,11 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Find Nth root of a number | Medium | Sorting | 2026-06-04 |
 | Find square root of a number | Medium | Sorting | 2026-06-03 |
 | Find out how many times the array is rotated | Easy | Find Out How Many Times The Array Is Rotated | 2026-06-02 |
 | Find minimum in Rotated Sorted Array | Easy | Find Minimum In Rotated Sorted Array | 2026-06-02 |
 | Search in rotated sorted array-II | Medium | Search In Rotated Sorted Array 2 | 2026-06-02 |
-| Search in rotated sorted array-I | Medium | Search In Rotated Sorted Array I | 2026-06-02 |
 
 ---
 
